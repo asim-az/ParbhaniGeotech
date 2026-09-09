@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="pgsGrad" x1="8%" y1="4%" x2="94%" y2="96%">
+      <stop offset="0%" stop-color="#C1622E"/>
+      <stop offset="52%" stop-color="#D79A3B"/>
+      <stop offset="100%" stop-color="#2E6C65"/>
+    </linearGradient>
+    <linearGradient id="pgsGloss" x1="30%" y1="0%" x2="70%" y2="70%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.32"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <circle cx="120" cy="120" r="114" fill="url(#pgsGrad)"/>
+  <circle cx="120" cy="120" r="114" fill="url(#pgsGloss)"/>
+  <circle cx="120" cy="120" r="110.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.28" stroke-width="2.5"/>
+
+  <text x="120" y="153" text-anchor="middle"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Arial,sans-serif"
+    font-weight="800" font-size="92" letter-spacing="-2"
+    fill="#FFFDF8">PGS</text>
+</svg>

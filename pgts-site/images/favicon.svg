@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <defs>
+    <linearGradient id="pgsGradFav" x1="8%" y1="4%" x2="94%" y2="96%">
+      <stop offset="0%" stop-color="#C1622E"/>
+      <stop offset="52%" stop-color="#D79A3B"/>
+      <stop offset="100%" stop-color="#2E6C65"/>
+    </linearGradient>
+  </defs>
+  <circle cx="120" cy="120" r="118" fill="url(#pgsGradFav)"/>
+  <text x="122" y="168" text-anchor="middle"
+    font-family="'Plus Jakarta Sans','Helvetica Neue',Arial,sans-serif"
+    font-weight="800" font-size="158"
+    fill="#FFFDF8">P</text>
+</svg>
